@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30138" started-at="2022-05-17T23:40:49 IST" finished-at="2022-05-17T23:41:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30138" started-at="2022-05-17T23:40:49 IST" finished-at="2022-05-17T23:41:19 IST">
+      <class name="org.testing.testscripts.TC11_DummyDelete">
+        <test-method status="PASS" signature="TC11()[pri:0, instance:org.testing.testscripts.TC11_DummyDelete@42eca56e]" name="TC11" duration-ms="1062" started-at="2022-05-17T23:41:18 IST" finished-at="2022-05-17T23:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11 -->
+      </class> <!-- org.testing.testscripts.TC11_DummyDelete -->
+      <class name="org.testing.testscripts.TC4_GetAll">
+        <test-method status="PASS" signature="TC4()[pri:0, instance:org.testing.testscripts.TC4_GetAll@66d1af89]" name="TC4" duration-ms="163" started-at="2022-05-17T23:41:03 IST" finished-at="2022-05-17T23:41:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+      </class> <!-- org.testing.testscripts.TC4_GetAll -->
+      <class name="org.testing.testscripts.TC2">
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:org.testing.testscripts.TC2@eafc191]" name="testcase2" duration-ms="12012" started-at="2022-05-17T23:40:49 IST" finished-at="2022-05-17T23:41:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- org.testing.testscripts.TC2 -->
+      <class name="org.testing.testscripts.TC6_deleterequest">
+        <test-method status="PASS" signature="testcase6()[pri:0, instance:org.testing.testscripts.TC6_deleterequest@37374a5e]" name="testcase6" duration-ms="141" started-at="2022-05-17T23:41:03 IST" finished-at="2022-05-17T23:41:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- org.testing.testscripts.TC6_deleterequest -->
+      <class name="org.testing.testscripts.TC3">
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:org.testing.testscripts.TC3@4a87761d]" name="testcase3" duration-ms="1428" started-at="2022-05-17T23:41:01 IST" finished-at="2022-05-17T23:41:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- org.testing.testscripts.TC3 -->
+      <class name="org.testing.testscripts.TC8_dummyget">
+        <test-method status="PASS" signature="TC8()[pri:0, instance:org.testing.testscripts.TC8_dummyget@2db7a79b]" name="TC8" duration-ms="391" started-at="2022-05-17T23:41:17 IST" finished-at="2022-05-17T23:41:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+      </class> <!-- org.testing.testscripts.TC8_dummyget -->
+      <class name="org.testing.testscripts.TC9_Dummygetall">
+        <test-method status="PASS" signature="TC9()[pri:0, instance:org.testing.testscripts.TC9_Dummygetall@6950e31]" name="TC9" duration-ms="312" started-at="2022-05-17T23:41:17 IST" finished-at="2022-05-17T23:41:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9 -->
+      </class> <!-- org.testing.testscripts.TC9_Dummygetall -->
+      <class name="org.testing.testscripts.TC5_Putrequest">
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:org.testing.testscripts.TC5_Putrequest@8646db9]" name="testcase5" duration-ms="125" started-at="2022-05-17T23:41:03 IST" finished-at="2022-05-17T23:41:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- org.testing.testscripts.TC5_Putrequest -->
+      <class name="org.testing.testscripts.TC7Dummy_1">
+        <test-method status="PASS" signature="TC7()[pri:0, instance:org.testing.testscripts.TC7Dummy_1@4671e53b]" name="TC7" duration-ms="13288" started-at="2022-05-17T23:41:03 IST" finished-at="2022-05-17T23:41:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7 -->
+      </class> <!-- org.testing.testscripts.TC7Dummy_1 -->
+      <class name="org.testing.testscripts.TC10_DummyPUT">
+        <test-method status="PASS" signature="TC10()[pri:0, instance:org.testing.testscripts.TC10_DummyPUT@b7dd107]" name="TC10" duration-ms="1092" started-at="2022-05-17T23:41:17 IST" finished-at="2022-05-17T23:41:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+      </class> <!-- org.testing.testscripts.TC10_DummyPUT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
